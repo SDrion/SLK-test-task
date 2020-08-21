@@ -2,10 +2,10 @@
 
 ## Get requests
 
-http://localhost:4000/box -> get all boxes \n
-http://localhost:4000/item -> get all items
-http://localhost:4000/item-box/<boxID> -> get all items in boxId
-(optional) http://localhost:4000/item-box -> get all pair items-box
+http://localhost:4000/box -> get all boxes <br>
+http://localhost:4000/item -> get all items <br>
+http://localhost:4000/item-box/<boxID> -> get all items in boxId <br>
+(optional) http://localhost:4000/item-box -> get all pair items-box <br>
 
 ## POST requests
 
