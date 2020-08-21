@@ -1,3 +1,5 @@
+## When open project -> npm i
+
 ## Get requests
 
 http://localhost:4000/box -> get all boxes
