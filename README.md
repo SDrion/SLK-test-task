@@ -2,7 +2,7 @@
 
 ## Get requests
 
-http://localhost:4000/box -> get all boxes
+http://localhost:4000/box -> get all boxes \n
 http://localhost:4000/item -> get all items
 http://localhost:4000/item-box/<boxID> -> get all items in boxId
 (optional) http://localhost:4000/item-box -> get all pair items-box
